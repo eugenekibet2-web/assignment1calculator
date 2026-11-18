@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="hint_num1">Enter first number</string>
+    <string name="hint_num2">Enter second number</string>
+    <string name="btn_add">+</string>
+    <string name="btn_sub">-</string>
+    <string name="btn_mul">×</string>
+    <string name="btn_div">÷</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_sqrt">√</string>
+    <string name="btn_square">x²</string>
+    <string name="btn_percent">%</string>
+    <string name="default_result">Result: 0</string>
+    <string name="history_title">Calculation History:</string>
+</resources>
